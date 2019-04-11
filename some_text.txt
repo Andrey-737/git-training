@@ -6,6 +6,8 @@ another changess
 New feature
 Developing new feature
 Continue developing
-
 -------------------
 Add conflict block
+-------------------------
+add text from feature branch
+
