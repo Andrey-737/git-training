@@ -6,3 +6,5 @@ another changess
 New feature
 Developing new feature
 Continue developing
+-------------------------
+add text from feature branch
